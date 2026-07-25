@@ -1,0 +1,9 @@
+{
+  "ollama_url": "http://localhost:11434/api/generate",
+  "model": "translategemma:12b",
+  "num_predict": 512,
+  "timeout": 120,
+  "source_lang": "English",
+  "target_lang": "Bulgarian",
+  "test_key": "test_val"
+}
