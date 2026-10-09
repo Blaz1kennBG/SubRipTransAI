@@ -1,4 +1,4 @@
-# AI-MovieSubtitor
+# SubRipTransAI
 
 ## An app for translating subtitles ENG > BG, uses Local Ollama REST API
 
